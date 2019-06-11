@@ -1,0 +1,4 @@
+https://publications.gbdirect.co.uk//c_book/chapter5/
+https://publications.gbdirect.co.uk//c_book/chapter6/
+# EJEMPLOS
+https://github.com/Manchas2k4/advanced_programming/tree/master/pointers

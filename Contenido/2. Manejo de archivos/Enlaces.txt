@@ -1,0 +1,3 @@
+Del libro [STEVENS], revisa el capítulo 3 (File I/O).
+#EJEMPLOS
+https://github.com/Manchas2k4/advanced_programming/tree/master/files
