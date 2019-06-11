@@ -1,0 +1,3 @@
+Del libro de [STEVENS], revisa los capítulos 16 (Network IPC: Sockets) y 17 (Advanced IPC).
+#EJEMPLOS
+https://github.com/Manchas2k4/advanced_programming/tree/master/sockets

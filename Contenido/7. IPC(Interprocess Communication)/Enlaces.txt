@@ -1,0 +1,3 @@
+Del libro de [STEVENS], revisa el capítulo 15 (Interprocess Communication)
+#EJEMPLOS
+https://github.com/Manchas2k4/advanced_programming/tree/master/ipc

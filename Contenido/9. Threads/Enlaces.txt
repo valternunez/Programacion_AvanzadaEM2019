@@ -1,0 +1,2 @@
+Del libro de [STEVENS], revisa los capítulos 11 (Threads) y 12 (Thread Control).
+https://github.com/Manchas2k4/advanced_programming/tree/master/threads
